@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(43, 198, 255);
+}
+th:hover{
+background-color: #00e39f;
+}
+td:hover{
+background-color: #0ef7b1;
+}
+
+table tr th{
+    background-color: rgb(89, 0, 255);
+}
+
+table tr td{
+    background-color: rgb(212, 0, 255);
+}
