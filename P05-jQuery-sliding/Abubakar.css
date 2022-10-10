@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(200, 213, 255);
+
+}
+
+.hiasan-klik{
+    margin-left: 110px;
+    margin-right: 120px;
+}
+
+.datar{
+    text-align: center;
+    font-weight: bold;
+}
+
+.klik{
+    background-color: rgb(255, 196, 1);
+    color: rgb(0, 0, 0);
+    padding: 15px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: auto;
+}
+
+.klik:hover{
+    background-color: rgb(28, 255, 3);
+}
+
+.penjelasan{
+    padding: 30px;
+    box-shadow: 0px 8px 16px 0px rgb(51, 1, 67);
+    margin-left: 10px;
+    text-align: justify;
+}
